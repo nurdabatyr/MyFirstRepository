@@ -1,4 +1,4 @@
-# merge-commit  - master
+# merge-commit  
 
 ## Exercise 2.6.3
 
